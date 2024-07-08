@@ -20,7 +20,7 @@ public class Principal {
                 int m = scanner.nextInt();
 
                 if (N == 0 && k == 0 && m == 0) {
-                    System.out.println("Até mais! =)");
+                    System.out.println("O programa finalizou corretamente. Até mais!");
                     break;
                 }
 
@@ -36,7 +36,7 @@ public class Principal {
                 int jogarNovamente = scanner.nextInt();
 
                 if (jogarNovamente == 0) {
-                    System.out.println("Até mais! =)");
+                    System.out.println("O programa finalizou corretamente. Até mais!");
                     break;
                 }
             } catch (InputMismatchException e) {
