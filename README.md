@@ -15,6 +15,8 @@ onde o path é a pasta onde o arquivo JavaChallenge.jar está localizado:
 java -jar JavaChallenge.jar
 ```
 
+![Terminal jar](img_terminal.png)
+
 ### Método 2
 - IDE de sua preferência
 - Clone o repositório
